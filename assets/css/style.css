@@ -600,8 +600,8 @@ p {
 ===========================*/
 /*===== NAVBAR EIGHT =====*/
 .navbar-area {
-  background: -webkit-linear-gradient(left, #ffffff 0%, #ffffff 100%);
-  background: -o-linear-gradient(left, #ffffff 0%, #ffffff 100%);
+  background: -webkit-linear-gradient(left, #ffffff 0%, #7ab928 100%);
+  background: -o-linear-gradient(left, #ffffff 0%, #7ab928 100%);
   background: linear-gradient(to right, #ffffff 0%, #ffffff 100%);
   padding: 10px 0;
   position: absolute;
@@ -719,7 +719,7 @@ p {
             content: '';
             width: 32px;
             height: 4px;
-            background-color: #fff;
+            background-color: #7ab928;
             left: 50%;
             bottom: 0;
             -webkit-transition: all 0.3s ease-out 0s;
